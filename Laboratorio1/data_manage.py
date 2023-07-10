@@ -6,6 +6,8 @@ import time
 
 
 
+
+
 #borra todo el contenido presente en el archivo 'Datalog.txt'
 def limpiar_datalog():
     file = open("log.txt", "w")
